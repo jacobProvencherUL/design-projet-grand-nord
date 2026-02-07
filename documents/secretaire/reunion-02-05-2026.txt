@@ -1,0 +1,61 @@
+Secrétaire
+
+Président : ?
+Secrétaire : Jacob (officiellement Rosemary)
+
+Début de la rencontre : 08h30
+
+On a révisé la grille de correction du rapport version 0
+On a ensuite corriger les commentaires données
+Ensuite, on a révisé la section Besoins
+On s'est demandé si le format de la section Besoins était okay sous format liste
+On a approuvé (on pourra changer par après s'il le faut : c'est un choix facilement réversible)
+Ensuite, on a fait une révision de la liste des objectifs
+On s'est assuré que chaque objectif est vraiment un "objectif", c'est-à-dire qu'il est claire et qu'on utilise des verbes d'actions.
+Ensuite, on a discuté sur la différence entre un besoin et un concept.
+Prince a posé une question sur la section 4.5 (plus spécifiquement la section 4.5.3) : il avait une interrogation par rapport à la simplification de l'entretien du capteur.
+Antoine demande si on devrait enlever l'entretien du capteur
+Révision du tableau des objectifs
+Il faudra updater le tableau des objectifs
+On espère qu'on aura plus d'informations sur le cahier de charges
+
+Rosemary demande si dans le cahier de charges, il faut au moins 10 à 12 critères.
+On attend encore d'autres informations pour mieux avancer le cahier de charges.
+On essaye de se synchroniser pour bien gérer la modification des besoins, ensuite les objectifs et ensuite le cahier de charges.
+Possible call dimanche entre Antoine, Prince, Loic?
+Cancel : Antoine sera à MTL
+Possible call entre Prince et Loic, dimanche
+Mardi : debrief à Antoine par Prince et Loic
+Loic propose qu'à la fin de la réunion de faire un tour de table pour s'assurer que chacun sait c'est quoi sa ou ses tâches de la semaine.
+Antoine : supervision du projet + supervision de l'ODJ + un peu de rédaction
+Loïc + Prince : production de la partie rédaction
+Rosemary : vérification et supervision du rapport + aide sur YouTrack pour Rogeo
+Jacob : rédaction des procès-verbaux (jusqu'à la remise du rapport v1)
+Hiba : rédaction des ordres du jour (jusqu'à la remise du rapport v1)
+Marika : Remise du livrable + ANYTHING ELSE ?
+Rogeo :
+S'assurer de garder à jour le diagramme de tâches (ajout de tâches, mise à jour des tâches)
+Ajouter toutes les deadlines jusqu'à la fin de la session (e.g. toutes les dates de remises)
+Antoine : question à Rogeo pour maitrise de YouTrack.
+Commentaires : YouTrack, c'est fkg overkill pour l'envergure de notre projet.
+
+Rosemary : comment mettre nom de ma figure
+Antoine répond : (essaye de fort de s'en rappeler...)
+
+Résumé sur la rédaction
+Mainly : Loic et Prince
+Helper : Marika et Antoine
+
+Pour la semaine prochaine...
+Avoir une ébauche du cahier de charges.
+Modifications des besoins (avant dimanche)
+À partir de mardi, Antoine pourra commencer à rédiger le cahier de charges (Antoine + Prince)
+Impératif : avoir l'ODJ avant mardi
+Idéalement : avoir procès-verbal avant dimanche (selon Jacob)
+
+
+
+
+
+
+

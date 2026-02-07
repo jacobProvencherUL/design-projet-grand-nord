@@ -1,0 +1,149 @@
+%!TEX encoding = IsoLatin
+
+%
+% Exemple d'ordre du jour
+% par Pierre Tremblay, Universite Laval
+% modifie par Christian Gagne, Universite Laval
+% 2011/01/14 - version 1.4
+% modifié par Robert Bergevin, Université Laval
+% 24/11/2011
+% modifié par Jean-Yves Chouinard, Université Laval
+% 2016/01/11
+% modifié par Jean-Yves Chouinard, Université Laval
+% 2017/01/04
+%
+
+%--------------------------------------------------------------------------------------
+%------------------------------------- preambule --------------------------------------
+%--------------------------------------------------------------------------------------
+\documentclass[12pt]{ULojpv}
+
+% Chargement des packages supplementaires
+\usepackage{lmodern}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+\usepackage{pifont}
+
+% Definitions des parametres de l'en-tete
+\Cours{GEL--1001 Design I (méthodologie)}             % Nom du cours
+\NumeroEquipe{9}                                     % Numero de l'equipe
+\NomEquipe{Innovation électrique}                               % Nom de l'equipe
+\Objet{Procès-verbal}                                 % Nom du document
+\SujetRencontre{Révision et planification}        % Sujet de la rencontre
+\DateRencontre{2026/02/05}                            % Date de la rencontre
+\LocalRencontre{Microsoft Teams}                            % Local de la rencontre
+\HeureRencontre{08h30-10h30}                          % Heure de la rencontre
+
+%--------------------------------------------------------------------------------------
+%--------------------------------- corps du document ----------------------------------
+%--------------------------------------------------------------------------------------
+\begin{document}
+\entete
+\begin{enumerate}
+      \item \textbf{Ouverture de la réunion}
+
+            Heure : 8h30
+      \item \textbf{Nomination ou confirmation du président et du secrétaire}
+            \\ % saut de ligne
+            \begin{tabular}{@{}ll}
+                  Président : Loïc Constantineau & Secrétaire : Rosemary St-Pierre
+            \end{tabular}
+      \item \textbf{Lecture et adoption de l'ordre du jour}
+            \\ % saut de ligne
+            \begin{tabular}{@{}ll}
+                  L'ordre du jour est proposé et adopté à l'unanimité.
+            \end{tabular}
+      \item \textbf{Lecture et adoption du procès-verbal de la réunion du 29 janvier 2026}
+            \\ % saut de ligne
+            \begin{tabular}{@{}ll}
+                  Aucun procès-verbal n'était dû pour cette rencontre.
+            \end{tabular}
+      \item \textbf{Affaires découlant du procès-verbal}
+      \item \textbf{Points à traiter}
+            \begin{enumerate}
+                  \item Révision du rapport de projet - version 0
+
+                        Chaque membre de l'équipe a révisé l'introduction et la description écrites par Antoine avec le support de Marika. Quelques commentaires ont été donnés sur les unités de mesure. Jacob a mentionné que les unités de mesure doivent être séparées de la valeur (ex: 2m vs 2 m). Le contenu du rapport de projet - version 0 a été approuvé par l'entièreté de l'équipe.
+
+                  \item Discuter et déterminer les prochaines tâches à réaliser
+
+                        \begin{enumerate}
+                              \item Remue-méninges et recherche des composantes pour la boîte
+
+                                    Dans un premier temps, l'équipe a effectué l'attribution de nouveaux rôles sur le contrat d'équipe. Nous nous sommes assurés que chacun se voit assigner un rôle différent que celui des deux premières semaines.
+
+                                    Dans un deuxième temps, l'équipe a fait une mise à jour de l'ensemble du projet dans l'objectif de comprendre quelles seront les prochaines étapes et les prochaines tâches à réaliser pour faire avancer le projet. À la lueur d'une lecture de la description pour la remise du rapport de projet - version 1, il a été possible de répartir les tâches à chaque membre de l'équipe, tout en s'assurant d'avoir une charge de travail équilibrée. Avec Miro, un logiciel d'aide pour l'idéation et le remue-méninge, on a inscrit visuellement les tâches de chacun.
+
+                                    Aucune discussion n'a été abordée au sujet de la recherche des composantes pour la boîte.
+
+                              \item Mettre en place les tâches sur YouTrack et le diagramme de Gantt
+
+                                    L'attribution des tâches a été inscrite dans YouTrack.
+                        \end{enumerate}
+
+                  \item Échanger sur nos points forts et nos points faibles afin d'organiser la répartition des tâches de manière plus judicieuse.
+
+                        Jacob a initié une discussion autour de nos points forts et nos points faibles. L'idée était de trouver un rôle qui s'aligne avec les forces de chacun. D'abord, on a trouvé deux personnes avec un certain intérêt à l'égard du français et la grammaire, personnes vers qui on pourra se référer pour des questions sur une structure de phrases, de la grammaire, etc. Ensuite, on a trouvé une personne intéressée à être une référence en LaTeX, Jacob.
+
+                        La rencontre s'est terminée sur cette discussion. Chacun ayant au moins une tâche pour la semaine, avec des dates dues.
+            \end{enumerate}
+
+      \item \textbf{Divers}
+
+            Antoine nous a expliqué le fonctionnement lorsqu'on cite nos sources avec Latex. Il a aussi remis à l'équipe un document LaTeX tiré du cégep en guise de documents de référence supplémentaires LaTeX.
+
+      \item \textbf{Répartition des tâches}
+
+            \begin{description}[
+                        leftmargin=4.5cm,
+                        labelwidth=4.3cm,
+                        labelsep=0.2cm,
+                        align=left,
+                        font=\normalfont
+                  ]
+                  \item[Hiba:]
+                        Produire l'ordre du jour pour la réunion du 5 février et l'envoyer à l'équipe pour une révision finale.
+                  \item[Antoine:]
+                        Écrire une première version pour la section \textbf{Besoins} dans le rapport de projet pour dimanche 1 février.
+                  \item[Marika et Rosemary:]
+                        Écrire une première version pour la section \textbf{Objectifs} dans le rapport de projet pour jeudi 5 février.
+                  \item[Prince et Loïc:]
+                        À partir des objectifs, clarifier une procédure pour établir le cahier des charges.
+                  \item[Rogeo:] Mettre à jour le diagramme de Gantt dans YouTrack et s'assurer de la cohérence entre les tâches de la semaine et leur date d'échéance.
+                  \item[Jacob:] Produire le procès-verbal avant mercredi 4 février.
+            \end{description}
+
+      \item \textbf{Évaluation de la réunion}
+
+            La réunion s'est bien déroulée et a permis de donner à l'équipe une direction et une vision plus claire du travail à réaliser pour les trois prochaines semaines.
+
+      \item \textbf{Date, heure, lieu et objectif de la prochaine réunion}
+
+            \begin{tabular}{@{}lll}
+                  Date: 2026/02/05
+                   & Heure: 08h30
+                   & Lieu: Microsoft Teams
+            \end{tabular}
+
+            La prochaine réunion a pour objectif de consolider les besoins et objectifs afin de partir sur de bonnes bases pour l'établissement du cahier des charges, qui s'étendra sur les deux semaines suivantes.
+
+      \item \textbf{Fermeture de la réunion}
+
+            Heure : 10h21
+
+      \item \textbf{Étaient présents}
+
+            \begin{dinglist}{"33}
+                  \item Antoine Demers
+                  \item Hiba Jettane
+                  \item Jacob Provencher
+                  \item Loïc Constantineau
+                  \item Marika Thibault
+                  \item Prince Akissoe
+                  \item Rogeo Dounla
+                  \item Rosemary St-Pierre
+            \end{dinglist}
+
+\end{enumerate}
+\end{document}

@@ -1,0 +1,26 @@
+Questions/interrogations
+
+1 Questions sur le format des objectifs en format liste? C'est good?
+======================================================================
+1 Rep : semble bien puisqu'on a décrit chaque besoin
+Voir séminaire 8 pour plus d'info
+Simon corrigera la partie besoins et objectifs
+Parler à Simon pour confirmer notre facon de faire pour présenter les besoins et objectifs.
+
+Maybe : un petit texte pour guider le lecteur. Essayer de simplifier la vie de la personne qui lira notre rapport. Pourquoi X. Pourquoi Y.
+Faire un petit paragraphe au début de la section 3.2. 
+Bref : guider le lecteur!
+
+Question - Antoine : Est-ce qu'on a une liste de qui corrige quoi?
+Luc a donné une liste de qui corrige quoi 
+
+======================================================================
+
+2 Vérification sur le nombre de critères pour le cahier de charges. On a vu qu'il faut entre 10 à 12 critères d'évaluations. Est-ce exacte?
+
+2 rep : selon notre jugement...
+Plus on a de critères, plus il y a une grosse charge de travail. Bref, en avoir assez de sorte à bien cerner le problème. Se fier à notre jugement. 10-12 est surtout un chiffre référence, par expérience...
+
+
+
+

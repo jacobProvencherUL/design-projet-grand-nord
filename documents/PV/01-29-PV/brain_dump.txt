@@ -1,0 +1,31 @@
+
+
+Président : Loïc Constantineau
+Secrétaire : Rosemary St-Pierre
+
+(6.1) Révision du rapport de projet - version 0
+
+Chaque membre de l'équipe a révisé l'introduction et la description écrites par Antoine avec le support de Marika. Quelques commentaires ont été données sur les unités de mesures. Jacob a mentionné que les unités de mesures doivent être séparées de la valeur (ex: 2m vs 2 m). Le contenu du rapport de projet - version 0 a été approuvé par l'entièreté de l'équipe.
+
+(6.2) Discuter et déterminer les prochaines tâches à réaliser
+
+    (6.2.1) Remue-méninges et recherche des composantes pour la boîte
+
+    D'abord, nous avons effectué l'attribution de nouveaux rôles sur le contrat d'équipe. Nous nous sommes assurés que chacun se voit assigner un rôle différent que celui des deux premières semaines.
+
+    Par la suite, on a fait une mise à jour de l'ensemble du projet dans l'objectif de comprendre quelles seront les prochaines étapes et les prochaines tâches à réaliser pour faire avancer le projet. À la lueur d'une lecture de la description pour la remise du rapport de projet - version 1, on a pu séparer différentes tâches à chaque membre de l'équipe, tout en s'assurant d'avoir une charge de travail équilibré. Avec Miro, un logiciel d'aide pour l'idéation et le remue-méninge, on a inscrit visuellement les tâches de chacun.
+
+    Aucune discussion n'a été abordé au sujet de la recherche des composantes pour la boîte.
+
+    (6.2.2) Mettre en place les tâches sur YouTrack et le diagramme de Gantt
+
+    Finalement, cette attribution des tâches a été inscrites dans YouTrack.
+
+(6.3) Échanger sur nos points forts et nos points faibles afin d'organiser la répartition des tâches de manière plus judicieuse.
+
+Jacob a initié une discussion autour de nos points forts et nos points faibles. L'idée était de trouver un rôle qui s'aligne avec les forces de chacun. D'abord, on a trouvé deux personnes avec un certain intérêt vis-à-vis le français et la grammaire, personnes vers qui ont pourra se référer pour des questions sur une structure de phrases, de la grammaire, etc. Ensuite, on a trouvé une personne intéressé à être une référence en Latex, Jacob. La rencontre
+
+La rencontre s'est terminé sur cette discussion. Chacun ayant au moins une tâche pour la semaine, avec des dates dues.
+
+
+
