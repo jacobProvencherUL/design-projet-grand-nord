@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.2.2)  8 FEB 2026 18:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.2.2)  9 FEB 2026 17:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -191,29 +191,33 @@ LaTeX Font Info:    ... okay on input line 26.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
 LaTeX Info: Redefining \degres on input line 26.
- (template_PV.tex (C:\Users\jacpr\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd) (C:\Users\jacpr\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd) (C:\Users\jacpr\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd) (C:\Users\jacpr\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd) [1
+ (C:\Users\jacpr\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd) (C:\Users\jacpr\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd) (C:\Users\jacpr\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd) (C:\Users\jacpr\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd) (body.tex (affaires_decoulant_du_PV.tex [1
 
-{C:/Users/jacpr/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/jacpr/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}]
+{C:/Users/jacpr/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/jacpr/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}]) (points_a_traiter.tex
 Package babel Info: 'french' activates 'french' shorthands.
-(babel)             Reported on input line 92.
- [2] [3] [4]) [5] (meeting_notes.tex) (02-05-PV.aux)
+(babel)             Reported on input line 26.
+ [2]) (divers.tex
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 14.
+ (C:\Users\jacpr\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [3]) (objectifs_de_la_semaine.tex) (repartition_taches.tex [4])) [5] (02-05-PV.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3357 strings out of 467871
- 62432 string characters out of 5418377
- 478335 words of memory out of 5000000
- 32213 multiletter control sequences out of 15000+600000
- 657366 words of font info for 59 fonts, out of 8000000 for 9000
+ 3424 strings out of 467871
+ 64129 string characters out of 5418377
+ 477335 words of memory out of 5000000
+ 32263 multiletter control sequences out of 15000+600000
+ 661946 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 58i,9n,66p,436b,467s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/jacpr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/jacpr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/jacpr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/jacpr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro12.pfb><C:/Users/jacpr/AppData/Local/Programs/MiKTeX/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on 02-05-PV.pdf (5 pages, 138409 bytes).
+ 58i,9n,66p,481b,604s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/jacpr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/jacpr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/jacpr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/jacpr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/jacpr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro12.pfb><C:/Users/jacpr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb><C:/Users/jacpr/AppData/Local/Programs/MiKTeX/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on 02-05-PV.pdf (5 pages, 173735 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
+ 54 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
