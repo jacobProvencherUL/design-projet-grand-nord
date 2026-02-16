@@ -97,13 +97,13 @@ INPUT points_a_traiter.tex
 INPUT .\divers.tex
 INPUT .\divers.tex
 INPUT divers.tex
-INPUT .\repartition_taches.tex
-INPUT .\repartition_taches.tex
-INPUT repartition_taches.tex
 OUTPUT 02-12-PV.pdf
 INPUT C:\Users\jacpr\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\jacpr\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ec.enc
 INPUT C:\Users\jacpr\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmro12.tfm
+INPUT .\repartition_taches.tex
+INPUT .\repartition_taches.tex
+INPUT repartition_taches.tex
 INPUT 02-12-PV.aux
 INPUT C:\Users\jacpr\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
 INPUT C:\Users\jacpr\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
