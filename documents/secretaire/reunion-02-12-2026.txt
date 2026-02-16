@@ -1,0 +1,105 @@
+Réunion 2026-02-12
+
+Président : Marika
+Secrétaire : Jacob
+
+Présent :
+Antoine
+Rosemary
+Marika
+Loïc
+Prince
+Hiba
+Jacob
+
+Debut : 08h36
+Fin :
+
+Marika lit l'ordre du jour
+On révise les commentaires données sur les documents de gestion
+Jacob indique son interrogation vis-à-vis le commentaire sur le procès-verbal
+Le diagramme de Gantt a bien été mis à jour par Rosemary : elle a ajouté les milestones pour jusqu'à la fin de la session.
+Ensuite, on a discuté pour la révision des besoins et objectifs
+Le point sur la révision du diagramme de Gantt a été approuvé par toutes les membres de l'équipe
+On a débattu sur la présence de l'objectif par rapport au coût. On a rappelé qu'en classe, ils ont mentionnés l'importance de l'objectif par rapport au cout. (on approuve qu'on va ajouter un objectif sur les couts)
+Discussion sur la validation de la qualité et de la cohérence des critères d'évaluations
+On a discuté autour du fait qu'on a cinq besoins mais qu'on a quatre objectifs : y-a-t-il une incohérence alors? Doit-on avoir 1:1 = besoins : objectifs.
+Antoine prend l'initiative de faire une révision des nos besoins-objectifs un à un.
+
+Marika prend l'initiative pour la révision des objectifs.
+On se questionne si on devrait pas fusionner les deux premiers sous-objectifs du premier objectif principale : on trouvait que les deux voulait dire la meme chose mais dit sous deux façons différents.
+On approuve les sous-objectifs pour "Recueillir les données"
+Ensuite, on passe aux sous-objectifs pour "Gérer les données et communiquer sécuritairement"
+On approuve ces sous-objectifs.
+Ensuite, on passe aux sous-objectifs pour "Assurer la solidité"
+On approuve ces sous-objectifs.
+
+Marika demande qui souhaite s'occuper d'écrire les objectifs par rapport au coût
+On se questionne sur quel genre de coût
+On brainstorm
+Rosemary : coût des pieces
+Antoine : couts d'installation, fabrication, opération et entretien
+Marika demande c'est quoi coût d'opération plus exactement
+Antoine répond en allant voir sur le powerpoint
+On décide d'ajout coût d'entretien et on expliquera en détail ce que ça implique pour nous.
+Marika : heads up sur le fait qu'il faut qu'un critère valent > 3% c'est-à-dire qu'un critère doit au minimum être de 3% car sinon on le considère inutile.
+Rosemary propose de faire la maison de la qualité
+
+Marika lance la discussion sur l'avancement fait sur le cahier des charges
+Antoine répond
+Une intro a été fait sur chaque critère principal
+Il restera à écrire la description des sous-critères
+On propose de se séparer le contenu pour le cahier de charges.
+Qui fait quoi? ...
+Marika :
+
+On propose d'assigner une personne pour réviser les objectifs (Antoine se propose)
+
+On discute sur le nombre de critères (pour se donner un nombre de référence)
+
+Marika lance la discussion sur l'avancement fait sur le cahier des charges
+Antoine répond
+Une intro a été fait sur chaque critère principal
+Il restera à écrire la description des sous-critères
+On propose de se séparer le contenu pour le cahier de charges.
+Qui fait quoi? ...
+Rogeo : Diagramme d'intro de la section pour chapitre 5
+Antoine : 4.1 (30%)
+Prince : 4.2 (23%)
+Loïc : 4.3 (22%)
+Hiba : 4.4 (15%) + ODJ
+Marika : 4.5 = Coût (10%) + révision des objectifs (toute de suite après la réunion du 12)
+Rosemary schéma + maison de qualité
+Jacob : PV
+Deadlines
+Antoine fera sa partie le dimanche
+Deadline le lundi soir
+Révision intersection
+Antoine révisera la section du cahier de charges
+
+On propose d'assigner une personne pour réviser les objectifs (Antoine se propose)
+
+On discute sur le nombre de critères (pour se donner un nombre de référence)
+
+========== DIVERS ==========
+
+Rosemary : intervention par rapport aux contraintes min-max
+Les contraintes min-max sont juste sur les besoins (et non les objectifs)
+Verbes d'action les objectifs
+Commentaires formulation des critères (pas verbe d'actions)
+Rosemary fait référence au PPT de hier (11 fév) pour voir la formulation référence sur les critères
+Dans le tableau, il faut des unités
+Commentaire sur le verbe capturer (dans capturer des videos lorsqu'il y a du mouvement)
+Antoine propose d'enlever l'objectif --> rapport à capturer
+Jacob demande clarification sur cahier des charges
+Antoine répond qu'avec l'exemple référence ça aide beaucoup à comprendre le travail qui doit être fait.
+========== CAHIER DES CHARGES (Antoine) ==========
+
+Loïc nous a expliqué sa procédure pour établir les relations (avec logiciel Desmos)
+Pendant le meeting, Antoine a mis à jour le tableau du cahier des charges, histoire d'avoir une complete picture de ce qui nous reste à faire avant la remise (et donc pour la prochaine semaine)
+
+Fin : 9h53
+
+
+
+
