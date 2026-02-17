@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.2.2)  16 FEB 2026 16:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.2.17)  17 FEB 2026 11:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -195,29 +195,54 @@ LaTeX Font Info:    ... okay on input line 26.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
 LaTeX Info: Redefining \degres on input line 26.
- (C:\Users\jacpr\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd) (C:\Users\jacpr\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd) (C:\Users\jacpr\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd) (C:\Users\jacpr\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd) (body.tex (affaires_decoulant_du_PV.tex) (points_a_traiter.tex) (divers.tex [1
+ (C:\Users\jacpr\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd) (C:\Users\jacpr\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd) (C:\Users\jacpr\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd) (C:\Users\jacpr\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd) (body.tex (affaires_decoulant_du_PV.tex [1
 
-{C:/Users/jacpr/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/jacpr/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}]
+{C:/Users/jacpr/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/jacpr/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}]) (points_a_traiter.tex
 Package babel Info: 'french' activates 'french' shorthands.
 (babel)             Reported on input line 19.
- [2]) (repartition_taches.tex) [3]) [4] (02-12-PV.aux)
+ [2]) (divers.tex) (repartition_taches.tex
+Overfull \hbox (4.17735pt too wide) in paragraph at lines 12--13
+[]\T1/lmr/m/n/12 Rédiger la sec-tion 4.1 du ca-hier des charges
+ []
+
+
+Overfull \hbox (4.17734pt too wide) in paragraph at lines 17--18
+[]\T1/lmr/m/n/12 Rédiger la sec-tion 4.4 du ca-hier des charges
+ []
+
+
+Overfull \hbox (4.17734pt too wide) in paragraph at lines 28--29
+[]\T1/lmr/m/n/12 Rédiger la sec-tion 4.3 du ca-hier des charges
+ []
+
+[3]
+Overfull \hbox (4.17735pt too wide) in paragraph at lines 35--36
+[]\T1/lmr/m/n/12 Rédiger la sec-tion 4.5 du ca-hier des charges
+ []
+
+
+Overfull \hbox (4.17734pt too wide) in paragraph at lines 40--41
+[]\T1/lmr/m/n/12 Rédiger la sec-tion 4.2 du ca-hier des charges
+ []
+
+) [4]) [5] (02-12-PV.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3370 strings out of 467871
- 63112 string characters out of 5418377
- 476338 words of memory out of 5000000
- 32215 multiletter control sequences out of 15000+600000
+ 3373 strings out of 467871
+ 63193 string characters out of 5418376
+ 477338 words of memory out of 5000000
+ 32218 multiletter control sequences out of 15000+600000
  657366 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 58i,9n,66p,825b,385s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 58i,9n,66p,847b,601s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/jacpr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/jacpr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/jacpr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/jacpr/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro12.pfb><C:/Users/jacpr/AppData/Local/Programs/MiKTeX/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on 02-12-PV.pdf (4 pages, 133152 bytes).
+Output written on 02-12-PV.pdf (5 pages, 134982 bytes).
 PDF statistics:
- 41 PDF objects out of 1000 (max. 8388607)
+ 44 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
